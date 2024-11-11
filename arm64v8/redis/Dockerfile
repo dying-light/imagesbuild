@@ -1,2 +1,2 @@
-FROM arm64v8/redis:6@sha256:a277d8bdc8e00bb1b989552387cced39a75dc51f4898e3315bea6ca04a1c6788
+FROM redis:6@sha256:c17f5de7b6a411e20a8ac27fa9f5526b47da757aadd7b1f269702b49743dd52f
 LABEL MAINTAINER=master@dying-light BUILDTYPE=Aliyun
