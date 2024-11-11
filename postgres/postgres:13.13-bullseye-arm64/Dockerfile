@@ -1,2 +1,0 @@
-FROM postgres:13.13-bullseye@sha256:afa793e1cb0507d6b1615e85bd98b702ffaadf1b5eb9dce6508a8aaf3925d9f6
-LABEL MAINTAINER=master@dying-light BUILDTYPE=Aliyun
