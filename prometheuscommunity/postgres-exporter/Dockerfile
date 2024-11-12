@@ -1,0 +1,2 @@
+FROM prometheuscommunity/postgres-exporter:v0.15.0@sha256:386b12d19eab2a37d7cd8ca8b4c7491cc7a830d9581f49af6c98a393da9605e6
+LABEL MAINTAINER=master@dying-light BUILDTYPE=Aliyun

@@ -1,0 +1,2 @@
+FROM bitnami/mongodb-exporter:0.40.0@sha256:93f74be374ee03237c0d39e1c7bb53054c959016248aee1584195261ad674543
+LABEL MAINTAINER=master@dying-light BUILDTYPE=Aliyun

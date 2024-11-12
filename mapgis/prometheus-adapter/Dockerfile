@@ -1,0 +1,2 @@
+FROM v5cn/prometheus-adapter:v0.11.1@sha256:e6a43c83ab1656f5371f27dedbb4d99e3c60922af439f1868c7efa5e066c6633
+LABEL MAINTAINER=master@dying-light BUILDTYPE=Aliyun

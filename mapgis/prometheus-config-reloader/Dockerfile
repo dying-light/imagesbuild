@@ -1,0 +1,2 @@
+FROM sumologic/prometheus-config-reloader:v0.67.1@sha256:0fe3cf36985e0e524801a0393f88fa4b5dd5ffdf0f091ff78ee02f2d281631b5
+LABEL MAINTAINER=master@dying-light BUILDTYPE=Aliyun

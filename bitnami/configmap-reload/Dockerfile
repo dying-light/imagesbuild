@@ -1,0 +1,2 @@
+FROM jimmidyson/configmap-reload:v0.5.0@sha256:0d5482c933c008c3d45413b1393ab06ace100549951c3dc85f17c3aae1a4d919
+LABEL MAINTAINER=master@dying-light BUILDTYPE=Aliyun

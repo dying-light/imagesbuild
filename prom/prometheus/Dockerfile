@@ -1,0 +1,2 @@
+FROM prom/prometheus:v2.46.0@sha256:d6ead9daf2355b9923479e24d7e93f246253ee6a5eb18a61b0f607219f341a80
+LABEL MAINTAINER=master@dying-light BUILDTYPE=Aliyun

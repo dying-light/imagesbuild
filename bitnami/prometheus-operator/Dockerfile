@@ -1,0 +1,2 @@
+FROM bitnami/prometheus-operator:0.67.1@sha256:be065cc6b0be590311703cd8ff51c55858a507ae3ef258416b140b042cdde0aa
+LABEL MAINTAINER=master@dying-light BUILDTYPE=Aliyun
